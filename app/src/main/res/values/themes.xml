@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SkinDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="theme_color_background">@color/zl_color_1</item>
+        <item name="theme_color_foreground">@color/zl_color_2</item>
+        <item name="theme_color_primary_text">@color/zl_color_3</item>
+        <item name="theme_color_secondary_text">@color/zl_color_5</item>
+        <item name="theme_color_accent">@color/zl_color_4</item>
+        <item name="android:windowBackground">?attr/theme_color_background</item>
+        <item name="android:textColor">?attr/theme_color_primary_text</item>
+        <item name="android:statusBarColor">?attr/theme_color_foreground</item>
+    </style>
+
+    <style name="Theme.SkinDemo" parent="Base.Theme.SkinDemo">
+
+    </style>
+
+    <style name="Theme.SkinDemo.Ganyu">
+        <item name="theme_color_background">@color/gy_color_1</item>
+        <item name="theme_color_foreground">@color/gy_color_2</item>
+        <item name="theme_color_primary_text">@color/gy_color_3</item>
+        <item name="theme_color_secondary_text">@color/gy_color_5</item>
+        <item name="theme_color_accent">@color/gy_color_4</item>
+    </style>
+
+    <style name="Theme.SkinDemo.Hutao">
+        <item name="theme_color_background">@color/ht_color_1</item>
+        <item name="theme_color_foreground">@color/ht_color_2</item>
+        <item name="theme_color_primary_text">@color/ht_color_3</item>
+        <item name="theme_color_secondary_text">@color/ht_color_5</item>
+        <item name="theme_color_accent">@color/ht_color_4</item>
+    </style>
+
+    <style name="Theme.SkinDemo.Keqing">
+        <item name="theme_color_background">@color/kq_color_1</item>
+        <item name="theme_color_foreground">@color/kq_color_2</item>
+        <item name="theme_color_primary_text">@color/kq_color_3</item>
+        <item name="theme_color_secondary_text">@color/kq_color_4</item>
+        <item name="theme_color_accent">@color/kq_color_5</item>
+    </style>
+
+    <style name="Theme.SkinDemo.Xiangling">
+        <item name="theme_color_background">@color/xl_color_1</item>
+        <item name="theme_color_foreground">@color/xl_color_2</item>
+        <item name="theme_color_primary_text">@color/xl_color_3</item>
+        <item name="theme_color_secondary_text">@color/xl_color_4</item>
+        <item name="theme_color_accent">@color/xl_color_5</item>
+    </style>
+
+    <style name="Theme.SkinDemo.Xiao">
+        <item name="theme_color_background">@color/xx_color_1</item>
+        <item name="theme_color_foreground">@color/xx_color_2</item>
+        <item name="theme_color_primary_text">@color/xx_color_3</item>
+        <item name="theme_color_secondary_text">@color/xx_color_5</item>
+        <item name="theme_color_accent">@color/xx_color_4</item>
+    </style>
+
+    <style name="Theme.SkinDemo.Zhongli">
+        <item name="theme_color_background">@color/zl_color_1</item>
+        <item name="theme_color_foreground">@color/zl_color_2</item>
+        <item name="theme_color_primary_text">@color/zl_color_3</item>
+        <item name="theme_color_secondary_text">@color/zl_color_5</item>
+        <item name="theme_color_accent">@color/zl_color_4</item>
+    </style>
+
+</resources>

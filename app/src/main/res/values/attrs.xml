@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="theme_color_background" format="color" />
+    <attr name="theme_color_foreground" format="color" />
+    <attr name="theme_color_primary_text" format="color" />
+    <attr name="theme_color_secondary_text" format="color" />
+    <attr name="theme_color_accent" format="color" />
+    <attr name="theme_primary_example_image" format="reference" />
+</resources>

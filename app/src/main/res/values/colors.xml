@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- default theme colors -->
+    <color name="sakura_color_1">#FFFFCB99</color>
+    <color name="sakura_color_2">#FFE472A5</color>
+    <color name="sakura_color_3">#FFFDB6D6</color>
+    <color name="sakura_color_4">#FFE6AAC8</color>
+    <color name="sakura_color_5">#FFC99274</color>
+
+    <color name="ht_color_1">#3A1B19</color>
+    <color name="ht_color_2">#7B595E</color>
+    <color name="ht_color_3">#C7A085</color>
+    <color name="ht_color_4">#FCF0E1</color>
+    <color name="ht_color_5">#C94737</color>
+
+    <color name="xx_color_1">#333C42</color>
+    <color name="xx_color_2">#316658</color>
+    <color name="xx_color_3">#5EA69C</color>
+    <color name="xx_color_4">#C2CFA2</color>
+    <color name="xx_color_5">#706690</color>
+
+    <color name="xl_color_1">#000000</color>
+    <color name="xl_color_2">#384871</color>
+    <color name="xl_color_3">#E7BD39</color>
+    <color name="xl_color_4">#AB4F3F</color>
+    <color name="xl_color_5">#47855A</color>
+
+    <color name="sh_color_1">#232B36</color>
+    <color name="sh_color_2">#517C89</color>
+    <color name="sh_color_3">#B4BFD0</color>
+    <color name="sh_color_4">#8694AD</color>
+    <color name="sh_color_5">#9C3129</color>
+
+    <color name="yu_color_1">#1E1A22</color>
+    <color name="yu_color_2">#67A4BA</color>
+    <color name="yu_color_3">#4E4C72</color>
+    <color name="yu_color_4">#B94E5E</color>
+    <color name="yu_color_5">#D389A1</color>
+
+    <color name="zl_color_1">#2F2321</color>
+    <color name="zl_color_2">#AA4F23</color>
+    <color name="zl_color_3">#F8EBDC</color>
+    <color name="zl_color_4">#FED875</color>
+    <color name="zl_color_5">#6C627A</color>
+
+    <color name="gy_color_1">#33395B</color>
+    <color name="gy_color_2">#5D74A2</color>
+    <color name="gy_color_3">#C4D8F2</color>
+    <color name="gy_color_4">#F2E8E3</color>
+    <color name="gy_color_5">#7C282B</color>
+
+    <color name="kq_color_1">#211A3E</color>
+    <color name="kq_color_2">#453370</color>
+    <color name="kq_color_3">#A597B6</color>
+    <color name="kq_color_4">#FEF3E8</color>
+    <color name="kq_color_5">#D06C9D</color>
+
+</resources>
